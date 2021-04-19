@@ -12,8 +12,6 @@ require (
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20170922090931-c385f95c6022
 	github.com/NaverCloudPlatform/ncloud-sdk-go-v2 v1.1.7
 	github.com/Telmate/proxmox-api-go v0.0.0-20210331182840-ff89a0cebcfa
-	github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20190418113227-25233c783f4e
-	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20170113022742-e6dbea820a9f
 	github.com/antihax/optional v1.0.0
 	github.com/approvals/go-approval-tests v0.0.0-20160714161514-ad96e53bea43
 	github.com/aws/aws-sdk-go v1.38.0
@@ -46,6 +44,7 @@ require (
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/hashicorp/go-version v1.3.0
 	github.com/hashicorp/hcl/v2 v2.9.1
+	github.com/hashicorp/packer-plugin-alicloud v0.0.2
 	github.com/hashicorp/packer-plugin-amazon v0.0.1
 	github.com/hashicorp/packer-plugin-ansible v0.0.2
 	github.com/hashicorp/packer-plugin-docker v0.0.7
